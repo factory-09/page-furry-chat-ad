@@ -1,6 +1,6 @@
 'use strict';
 
-discordMessages.run(
+discordEveryoneMessages.run(
 	'303327594793795588',
 	'383146754129920000',
 	'10',
